@@ -7,11 +7,11 @@
 		 
     <!--versionCode is Optional And Android Only-->
 		 
-	<name>Aplicacion Siete Batalla de Puebla</name>
+	<name>Aplicacion Batalla de Puebla</name>
 		 
-	<descripcion>
+	<descripcton>
 	    Aplicacion que muestra Informacion de la Batalla de Puebla
-	</descripcion>
+	</description>
 		  
 	<preference name="phonegap-version" value="3.1.0" />
 		  
